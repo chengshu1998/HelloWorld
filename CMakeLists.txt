@@ -7,4 +7,6 @@ add_executable(HelloWorld main.cpp)
 add_executable(gets_fgets_getline gets_fgets_getline.cpp)
 add_executable(test test.cpp)
 add_executable(Araay Araay.cpp)
+add_executable(problem1 problem1.cpp)
+
 
