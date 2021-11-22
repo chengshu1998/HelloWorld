@@ -8,4 +8,4 @@ add_executable(gets_fgets_getline gets_fgets_getline.cpp)
 add_executable(test test.cpp)
 add_executable(Araay Araay.cpp)
 
-
+add_executable(problem2 problem2.cpp)
